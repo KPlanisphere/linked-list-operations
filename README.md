@@ -73,7 +73,7 @@ void menu() {
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/linked-list-operations.git
+    git clone https://github.com/KPlanisphere/linked-list-operations.git
     ```
 2. Navigate to the project directory:
     ```bash
